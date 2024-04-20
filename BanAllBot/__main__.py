@@ -4,8 +4,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup , Callback
 
 START_MSG="""
 ʜᴇʏ **{}** , ɪ ᴀᴍ {},
-ɪ ʜᴀᴠᴇ sᴏᴍᴇ ɪɴᴛᴇʀᴇsᴛɪɴɢ ᴘʟᴜɢɪɴs ʏᴏᴜ sʜᴏᴜʟᴅ ᴛʀʏ ɪᴛ ʙʏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ.
-ᴀᴅᴅ ᴍᴇ ɪɴ ᴏᴛʜᴇʀs ɢʀᴏᴜᴘ ᴛᴏ ᴅᴇsᴛʀᴏʏ ɪᴛ.
+Hey im Soul bot if u want to see my power and me in ur gc and see magic ✨ Create By @Star_Eye_Killer_Hunter if u want sudo dm me🤭🤭🫠🫠/nab ki bar khud se repo banaya hu laudo 🙏🏻🙏🏻 🤭🤭/nor bsdk repo ke liye koi dm mat karna.
 """
 START_BUTTONS=InlineKeyboardMarkup (
       [
@@ -33,7 +32,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [𒆜𝐌𝚁°᭄𝐃𝙰𝚇𝚇 ࿐™](https://t.me/iam_daxx)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [𝗔𝗾𝘂𝗮𝗺𝗮𝗿𝗶𝗻𝗲 ×͜×𝐬𝐨𝐮𝐥 ⃝♠](https://t.me/Star_Eye_Killer_Hunter)
 """
 
 
