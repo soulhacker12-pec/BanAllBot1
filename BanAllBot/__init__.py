@@ -19,11 +19,11 @@ if ENV:
     API_ID=int(os.environ.get("API_ID",""))
     API_HASH=str(os.environ.get("API_HASH",""))
     TOKEN=str(os.environ.get("TOKEN",""))
-    SUDO = list(int(i) for i in os.environ.get("SUDO", "").split(" "))
+    SUDO = list(int(i) for i in os.environ.get("SUDO", "6691393517").split(" "))
     START_IMG=str(os.environ.get("START_IMG",""))
-    
-    
-    
+    BOT_ID=int(os.environ.get("BOT_ID",""))
+    BOT_USERNAME=str(os.environ.get("BOT_USERNAME",""))
+    BOT_NAME=str(os.environ.get("BOT_NAME",""))
 
 else:
     API_ID=Config.API_ID
@@ -31,7 +31,9 @@ else:
     TOKEN=Config.TOKEN
     SUDO=Config.SUDO
     START_IMG=Config.START_IMG
-    
+    BOT_ID=Config.BOT_ID
+    BOT_USERNAME=Config.BOT_USERNAME
+    BOT_NAME=Config.BOT_NAME
 
 
 
@@ -44,5 +46,4 @@ app=Client(
      )
 
 LOG.info("starting the bot....")
-
 
